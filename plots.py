@@ -4,7 +4,7 @@ import pandas as pd
 import numpy as np
 from sklearn.tree import plot_tree
 from matplotlib.colors import LinearSegmentedColormap
-import phik
+
 
 
 def plot_phik(data, figsize=(12, 8)):
